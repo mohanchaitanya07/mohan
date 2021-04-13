@@ -17,10 +17,10 @@ int main()
         a[j]=b;
     }
     }
-    printf("the sorted ascending order is:\n");
+    printf(" ascending order is:\n");
      for(i=1;i<=n;i++)
 printf("\t%d",a[i]);
-printf("\nthe sorted descending order is:\n");
+printf("\ndescending order is:\n");
 for(i=n;i>=1;i--)
 printf("\t%d",a[i]);
 return(0);

@@ -1,0 +1,2 @@
+mother");
+            if(ptrk->g)
